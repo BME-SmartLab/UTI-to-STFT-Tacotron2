@@ -9,7 +9,7 @@ Restructured ..., 2020 - UTI to STFT 3D-CNN  by Laszlo Toth <tothl@inf.u-szeged.
 Restructured April 15, 2021 - UTI to STFT-Tacotron2 by Csaba Zainkó <zainko@tmit.bme.hu>
 
 
-Keras implementation of the UTI-to-STFT-Tacotrn2 model of
+Keras implementation of the UTI-to-STFT-Tacotron2 model of
 Implementation of Csaba Zainkó, László Tóth, Amin Honarmandi Shandiz, Gábor Gosztolya, Alexandra Markó, Géza Németh, Tamás Gábor Csapó, 
 ,,Adaptation of Tacotron2-based Text-To-Speech for Articulatory-to-Acoustic Mapping using Ultrasound Tongue Imaging'', submitted to SSW11
 '''
